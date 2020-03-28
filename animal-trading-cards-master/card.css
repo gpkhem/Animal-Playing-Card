@@ -1,0 +1,35 @@
+/* add your CSS here */
+
+.fact{font-style: italic;
+}
+
+red{color: red;
+}
+
+.card {
+  width: 310px;
+  border: 1px solid black;
+  box-shadow: 6px 6px rgb(235,235,235);
+  padding-right: .2em;
+  padding-left: .7em;
+  padding-bottom: .6em;
+}
+
+.info{
+  width: 285px;
+  border: 1px solid blue;
+  padding-right: .5em;
+  padding-left: .5em;
+}
+
+.borderpicture{ 
+border-width: 1px; 
+border-color: black; 
+border-style: solid; 
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
